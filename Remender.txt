@@ -1,0 +1,6 @@
+#database name and table name must be chat_bots
+
+# to run this xampp surver must be on
+
+#folder past is htdoct location
+
